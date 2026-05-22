@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**joabecns/joabecns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joabe, AI student from Brazil
 
-Here are some ideas to get you started:
+## Skills I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Frameworks: Numpy, Pandas, TensorFlow, PyTorch and MatplotLib
+- Tolls: git, github, VS Code, Antigravity, Claude
+
+## About Me
+
+- student at PIT state college in the Bachelor of Artificial Intelligence
+- hardworking, curious and resilient 
+- I like reading, listening to classical music and I was a swimming athlete (I already won a medal in a South American competition)
